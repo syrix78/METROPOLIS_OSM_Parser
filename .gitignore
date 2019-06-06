@@ -1,0 +1,9 @@
+/.idea/
+/venv/
+*.log
+*.png
+*.pyc
+*.osm
+*.out
+*.csv
+*.tsv
